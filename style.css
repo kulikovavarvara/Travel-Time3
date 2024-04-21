@@ -1,0 +1,57 @@
+/* Базовые стили */
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+img {
+    min-width: 100%;
+}
+
+a {
+    /* inheritb - наследовать от родителя */
+    color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    /* Убрать маркеры у списка */
+    list-style: none;
+    margin: 0;
+    padding: 0;68
+}
+
+/*Стили проекта?*/
+.container {
+    max-width: 1350px;
+    background-color: bisque;
+    margin: 0 auto;
+}
+
+.hero {
+    background: url(../img/) no-repi]
+    \iokeat center / cover;
+    min-height: 100vd;
+}
+
+.nav__list {
+     font-family: ;
+     font-weight: 500;
+     font-size: 24px;
+        
+}
+
